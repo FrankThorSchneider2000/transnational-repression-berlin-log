@@ -11,7 +11,7 @@
 
 This repository serves as an immutable public record regarding the illegal surveillance, cyberstalking, and psychological warfare (*Zersetzung*) operations conducted against **Pau Joan Pregoni Juan** (Dual Citizen EU/ARG) in Berlin, Germany.
 
-**Hostile Actor:** Private Intelligence Cell hired by **Eduardo Vera** (Operating from Argentina).
+**Hostile Actor:** Private Intelligence Cell hired by **Eduardo Vera** (Operating from Argentina) possible links to SIDE, and multiple illegal PSYOPS to a civilian (hired at leas 5 EU based teams).
 **Tactics Used:** IMSI Catchers, Physical Surveillance, Target Funneling (Hotels), Coercion of Family Members.
 
 ### ⚠️ COERCION ALERT (Proxy Warning)
