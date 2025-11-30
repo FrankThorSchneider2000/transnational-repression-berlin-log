@@ -55,3 +55,6 @@ Authorities Notified:
 - Berlin Police
 - Landesamt für Verfassungsschutz (LfV)
 - Consular Sections (ES/ARG)
+
+
+others: https://pastebin.com/siJuFyyR
