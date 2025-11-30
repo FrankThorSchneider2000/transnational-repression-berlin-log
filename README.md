@@ -1,7 +1,7 @@
 # 🚨 PUBLIC SECURITY ALERT / SICHERHEITSHINWEIS / ALERTA DE SEGURIDAD
 
 **Status:** ACTIVE THREAT / AKTIVE BEDROHUNG / AMENAZA ACTIVA
-**Location:** Tigre,Buenos Aires, Argentina
+**Location:** Av Italia, Tigre,Buenos Aires, Argentina [see](https://github.com/FrankThorSchneider2000/transnational-repression-berlin-log/blob/e48aed82a27e97553ff73bcc94183b8970c60b6f/osint#L54)
 **Last Update:** 30.11.2025
 
 ---
