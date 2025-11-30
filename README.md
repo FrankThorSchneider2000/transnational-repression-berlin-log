@@ -1,7 +1,7 @@
 # 🚨 PUBLIC SECURITY ALERT / SICHERHEITSHINWEIS / ALERTA DE SEGURIDAD
 
 **Status:** ACTIVE THREAT / AKTIVE BEDROHUNG / AMENAZA ACTIVA
-**Location:** Berlin, Germany
+**Location:** Tigre,Buenos Aires, Argentina
 **Last Update:** 30.11.2025
 
 ---
